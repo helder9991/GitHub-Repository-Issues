@@ -1,6 +1,6 @@
-# react-github-project
+# GitHub Repository Issues
 
-Projeto desenvolvido no BootCamp da Rocketseat para ensinar o desenvolvimento de projetos utilizando o ReactJS
+Projeto desenvolvido no BootCamp da Rocketseat para ensinar o desenvolvimento de projetos utilizando o ReactJS.
 
 # Como funciona
 O projeto realiza busca na API do github em busca de repositorios, caso encontre ele salva o repositorio no Browser e lista
